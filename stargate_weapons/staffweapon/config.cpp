@@ -463,11 +463,11 @@ class cfgMagazines
 				class Health
 				{
 					hitpoints = 100;
-					healthLevels[] = {	{1,{"Stargate_weapons\Ammunition\127x42\data\127x42.rvmat"}},
+					healthLevels[] = {	{1.0,{"Stargate_weapons\Ammunition\127x42\data\127x42.rvmat"}},
 										{0.7,{"Stargate_weapons\Ammunition\127x42\data\127x42.rvmat"}},
 										{0.5,{"Stargate_weapons\Ammunition\127x42\data\127x42_damage.rvmat"}},
 										{0.3,{"Stargate_weapons\Ammunition\127x42\data\127x42_damage.rvmat"}},
-										{0,{"Stargate_weapons\Ammunition\127x42\data\127x42_destruct.rvmat"}}
+										{0.0,{"Stargate_weapons\Ammunition\127x42\data\127x42_destruct.rvmat"}}
 									};
 				};
 			};
